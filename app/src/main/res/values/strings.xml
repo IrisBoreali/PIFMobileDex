@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PIFMobileDex</string>
+    <string name="hp_label">HP: </string>
+    <string name="atk_label">ATK: </string>
+    <string name="def_label">DEF: </string>
+    <string name="spa_label">SPA: </string>
+    <string name="spd_label">SPD: </string>
+    <string name="spe_label">SPE:</string>
+</resources>
